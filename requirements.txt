@@ -1,0 +1,5 @@
+streamlit>=1.39
+pandas>=2.2
+requests>=2.32
+python-dotenv>=1.0
+espn-api>=0.45.1
